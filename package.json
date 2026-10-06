@@ -1,0 +1,8 @@
+{
+  "name": "ziyarat-umrah",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cinematic Umrah travel website with scroll-driven Makkah and Madinah experiences.",
+  "scripts": { "check": "node --check app.js", "build": "node scripts/build.mjs" },
+  "engines": { "node": "24.x" }
+}
